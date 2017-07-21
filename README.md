@@ -12,3 +12,5 @@ A folder should be created which includes only deFuse output files (`results.fil
 
 The deFuse results from 7 pilocytic astrocytoma RNA-seq samples are available in folder test_data.
 
+
+Citation: doi: https://doi.org/10.1101/163675
