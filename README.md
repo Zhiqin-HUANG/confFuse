@@ -13,5 +13,5 @@ A folder should be created which includes only deFuse output files (`results.fil
 The deFuse results from 7 pilocytic astrocytoma RNA-seq samples are available in folder test_data.
 
 
-Citation: 
+Citation:  \
 Huang Z, Jones DTW, Wu Y, Lichter P, Zapatka M. confFuse: High-Confidence Fusion Gene Detection across Tumor Entities. Frontiers in Genetics. 2017;8:137. doi:10.3389/fgene.2017.00137.
